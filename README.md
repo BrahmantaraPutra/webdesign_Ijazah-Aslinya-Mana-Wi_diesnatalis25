@@ -15,6 +15,7 @@ Artikel, infografis, dan video edukasi
 Pengguna dapat memperdalam pengetahuan mereka dan memahami langkah-langkah sederhana yang bisa dilakukan dalam kehidupan sehari-hari.
 
 **2. Campaign**
+
 Bagian ini bertujuan untuk mengajak pengguna ikut serta dalam aksi nyata.
 Di dalam fitur Campaign, pengguna dapat:
 Melihat kampanye lingkungan yang sedang berlangsung
@@ -23,6 +24,7 @@ Membuat kampanye mereka sendiri (opsional jika ingin menambah fitur)
 Fitur ini membantu komunitas membangun gerakan bersama untuk masa depan yang lebih hijau.
 
 **3. Waste Management**
+
 Fitur pengelolaan sampah ini memberikan edukasi dan panduan praktis seperti:
 Cara memilah sampah dengan benar
 Pengolahan sampah organik dan anorganik
@@ -31,6 +33,7 @@ Tips untuk mengurangi penggunaan plastik
 Tujuannya untuk mengubah kebiasaan pengguna menjadi lebih ramah lingkungan.
 
 **4. Green Space**
+
 Pada fitur ini, pengguna dapat:
 Menemukan ruang terbuka hijau seperti taman kota, hutan kota, dan area rekreasi
 Melihat informasi lokasi, fasilitas, dan kegiatan yang bisa dilakukan
@@ -47,6 +50,7 @@ Ide kreatif daur ulang
 Gallery membantu menampilkan perjalanan gerakan hijau bersama komunitas.
 
 **6. Forum Diskusi**
+
 Forum ini disediakan untuk membangun komunitas hijau yang aktif. Di dalamnya pengguna dapat:
 Berdiskusi tentang isu lingkungan
 Bertanya dan memberi solusi
